@@ -1,7 +1,7 @@
-package hello.servlet.basic.response;
+package hello.servlet.web.frontcontroller.basic.response;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import hello.servlet.basic.HelloData;
+import hello.servlet.web.frontcontroller.basic.HelloData;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
